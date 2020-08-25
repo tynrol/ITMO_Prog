@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab3_test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dbb2614-5b6a-4a7a-ab88-8bd62d0848ef" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="703013590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Moron" value="1" />
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1217904283">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="12184" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12184" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Creature" value="2" />
+          <entry key="Herring" value="1" />
+          <entry key="Inner" value="4" />
+          <entry key="Main" value="4" />
+          <entry key="Moron" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="102" />
+          <entry key="png" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="102" />
+          <entry key="UML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="299968303">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4178" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1046575676">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2699" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2699" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="62" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1993225318">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Fuchsia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Fuchsia#1;class#Fuchsia#0" />
+                <element signature="method#equals#0;class#Fuchsia#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/GsonConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Herring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Herring#1;class#Herring#0" />
+                <element signature="method#equals#0;class#Herring#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Midget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Midget#0;class#Midget#0" />
+                <element signature="method#Midget#1;class#Midget#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Creature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Ship.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#removeLast#0;class#Ship#0" />
+                <element signature="method#remove#1;class#Ship#0" />
+                <element signature="method#isMax#0;class#Ship#0" />
+                <element signature="e#1814#1815#0" expanded="true" />
+                <element signature="e#1863#1864#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Location.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="48" selection-end-column="1" />
+              <folding>
+                <element signature="method#Location#0;class#Location#0" />
+                <element signature="method#toString#0;class#Location#0" />
+                <element signature="method#equals#0;class#Location#0" />
+                <element signature="method#hashCode#0;class#Location#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Client/Loading.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#save#0;class#Loading#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Clothes.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HatCondition.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Hat.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TooYoung.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Existence.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Port.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONArray.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONBoolean.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONObject.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONParseException.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONString.java" />
+        <option value="$PROJECT_DIR$/src/com/company/json/JSONType.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BodyBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/GsonConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Creature.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Enums.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Midget.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Moron.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Fuchsia.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Herring.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Ship.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Loading.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Location.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Ship.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Midget.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/GsonConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Moron.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Herring.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Сommand.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Fuchsia.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Command.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Loading.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Client/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558515896663" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web/Ejb-Backend-for-Lab4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.Client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PK\Desktop\Code\Java\Lab\src\com\company\Client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client.Main" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Server.Main" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dbb2614-5b6a-4a7a-ab88-8bd62d0848ef" name="Default Changelist" comment="" />
+      <created>1547553813065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547553813065</updated>
+      <workItem from="1547553814558" duration="312000" />
+      <workItem from="1547554861366" duration="16034000" />
+      <workItem from="1547670300787" duration="19102000" />
+      <workItem from="1548095680763" duration="9020000" />
+      <workItem from="1548322712311" duration="120000" />
+      <workItem from="1548863343819" duration="718000" />
+      <workItem from="1549530625571" duration="24000" />
+      <workItem from="1552291652777" duration="16761000" />
+      <workItem from="1552319618441" duration="1089000" />
+      <workItem from="1552321405698" duration="1492000" />
+      <workItem from="1552323224828" duration="1959000" />
+      <workItem from="1552325532868" duration="2168000" />
+      <workItem from="1552327899524" duration="4753000" />
+      <workItem from="1552386329088" duration="7135000" />
+      <workItem from="1552482872787" duration="36651000" />
+      <workItem from="1553693616527" duration="9393000" />
+      <workItem from="1553707595049" duration="3560000" />
+      <workItem from="1553764487364" duration="6854000" />
+      <workItem from="1554202192135" duration="702000" />
+      <workItem from="1554203834584" duration="6627000" />
+      <workItem from="1554929025537" duration="434000" />
+      <workItem from="1554933738342" duration="9157000" />
+      <workItem from="1555327459439" duration="5036000" />
+      <workItem from="1556183286181" duration="602000" />
+      <workItem from="1556489981946" duration="295000" />
+      <workItem from="1556531455781" duration="270000" />
+      <workItem from="1558211335807" duration="2596000" />
+      <workItem from="1558214268232" duration="130000" />
+      <workItem from="1558214474898" duration="17885000" />
+      <workItem from="1558356765557" duration="3853000" />
+      <workItem from="1558361469863" duration="2008000" />
+      <workItem from="1558365621943" duration="592000" />
+      <workItem from="1558435614817" duration="4239000" />
+      <workItem from="1558515957213" duration="71000" />
+      <workItem from="1558522165544" duration="2747000" />
+      <workItem from="1558559995160" duration="3331000" />
+      <workItem from="1559324880937" duration="97000" />
+      <workItem from="1582313825634" duration="732000" />
+      <workItem from="1582472237313" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198789000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31006712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.3261745" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932885" weight="0.32348993" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../super-laba-po-proge-nad9/src/ru/david/room/RoomFactory.java" />
+    <entry file="file://$PROJECT_DIR$/../../../super-laba-po-proge-nad9/src/ru/david/room/json/JSONEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONString.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONParseException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/json/JSONBoolean.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Existence.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/BodyBuilder.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Vector.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Hat.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7361">
+          <caret line="486" column="17" selection-start-line="486" selection-start-column="17" selection-end-line="486" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TooYoung.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Clothes.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/HairColor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/HatCondition.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/HatType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Enums.java" />
+    <entry file="uml://JAVA/com.company.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.Main</OriginalElement>
+          <nodes>
+            <node x="342.0" y="180.0">com.company.Fuchsia</node>
+            <node x="454.5" y="0.0">com.company.Creature</node>
+            <node x="397.0" y="79.0">com.company.Midget</node>
+            <node x="679.0" y="180.0">com.company.Herring</node>
+            <node x="290.0" y="298.0">com.company.Main</node>
+            <node x="0.0" y="180.0">com.company.Moron</node>
+            <node x="0.0" y="298.0">com.company.GsonConfig</node>
+            <node x="409.0" y="298.0">com.company.Ship</node>
+            <node x="154.0" y="298.0">com.company.Loading</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.Midget" target="com.company.Creature">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.company.Herring" target="com.company.Midget">
+              <point x="0.0" y="-36.5" />
+              <point x="808.0" y="155.0" />
+              <point x="569.5" y="155.0" />
+              <point x="69.0" y="25.5" />
+            </edge>
+            <edge source="com.company.Fuchsia" target="com.company.Midget">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.company.Moron" target="com.company.Midget">
+              <point x="0.0" y="-36.5" />
+              <point x="161.0" y="155.0" />
+              <point x="431.5" y="155.0" />
+              <point x="-69.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="272.0" y="142.0" />
+          <SelectedNodes>
+            <node>com.company.Main</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Herring.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Loading.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Midget.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Ship.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Creature.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Fuchsia.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/Moron.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Server/GsonConfig.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/GsonBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/internal/$Gson$Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Main-1.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Handler.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Moron.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Moron#1;class#Moron#0" />
+            <element signature="method#equals#0;class#Moron#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Fuchsia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Fuchsia#1;class#Fuchsia#0" />
+            <element signature="method#equals#0;class#Fuchsia#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/GsonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Herring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Herring#1;class#Herring#0" />
+            <element signature="method#equals#0;class#Herring#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Midget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Midget#0;class#Midget#0" />
+            <element signature="method#Midget#1;class#Midget#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Creature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#removeLast#0;class#Ship#0" />
+            <element signature="method#remove#1;class#Ship#0" />
+            <element signature="method#isMax#0;class#Ship#0" />
+            <element signature="e#1814#1815#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="method#Location#0;class#Location#0" />
+            <element signature="method#toString#0;class#Location#0" />
+            <element signature="method#equals#0;class#Location#0" />
+            <element signature="method#hashCode#0;class#Location#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Client/Loading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#save#0;class#Loading#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Lab3_test:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lab3_test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
